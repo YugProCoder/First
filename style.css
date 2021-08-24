@@ -1,0 +1,23 @@
+#Ok{
+  word-spacing:10px;
+  text-align:center;
+  font-variant:small-caps;
+  font-size:80px;
+}
+body{
+  text-align:center;
+  background-color:#43A047;
+}
+#Ko{
+  border-style:solid;
+  border-color:#212121
+    border:1px;
+  border-radius:80px;
+  padding:5px;
+  width:450px;
+    
+}
+#Yug{
+  font-size:80px;
+  font-variant:small caps;
+}
